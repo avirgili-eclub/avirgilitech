@@ -18,3 +18,5 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_PROJECTS: "False"
