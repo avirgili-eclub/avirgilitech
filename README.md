@@ -9,6 +9,6 @@ My name is Alejandro but I go by Kyckness on social media platform. I'm a Softwa
 - 📫 How to reach me: avirgilitech@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
+  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
