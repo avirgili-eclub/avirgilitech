@@ -10,4 +10,5 @@ My name is Alejandro but I go by Kyckness on social media platform. I'm a Softwa
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-[![Alejandro V GitHub stats](https://github-readme-stats.vercel.app/api?username=avirgili-eclub)](https://github.com/avirgili-eclub/)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
