@@ -10,5 +10,6 @@ My name is Alejandro but I go by Kyckness on social media platform. I'm a Softwa
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-<!--START_SECTION:SHOW_COMMIT-->
-<!--END_SECTION:SHOW_COMMIT-->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
