@@ -13,15 +13,13 @@ My name is Alejandro but I go by Kyckness on social media platform. I'm a Softwa
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-260.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 kB Used in GitHub's Storage 
  > 
-> 🏆 423 Contributions in the Year 2023
+> 🏆 424 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,19 +30,19 @@ My name is Alejandro but I go by Kyckness on social media platform. I'm a Softwa
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                675 commits         ████████░░░░░░░░░░░░░░░░░   30.32 % 
-🌆 Daytime                1506 commits        █████████████████░░░░░░░░   67.65 % 
+🌞 Morning                676 commits         ████████░░░░░░░░░░░░░░░░░   30.35 % 
+🌆 Daytime                1506 commits        █████████████████░░░░░░░░   67.62 % 
 🌃 Evening                32 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   432 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Monday                   432 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 Tuesday                  362 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
 Wednesday                397 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Thursday                 550 commits         ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Friday                   456 commits         █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Thursday                 551 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+Friday                   456 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
 Saturday                 22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 Sunday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
@@ -92,5 +90,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/avirgili-eclub/avirgili-eclub/master/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2023 03:55:14 UTC
+ Last Updated on 02/11/2023 14:05:53 UTC
 <!--END_SECTION:waka-->
