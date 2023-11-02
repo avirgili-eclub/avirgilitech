@@ -67,11 +67,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/avirgili-eclub/avirgili-eclub/master/assets/bar_graph.png)
-
-
  Last Updated on 02/11/2023 14:12:54 UTC
 <!--END_SECTION:waka-->
