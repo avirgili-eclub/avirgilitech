@@ -9,7 +9,7 @@ My name is Alejandro Virgili. I'm a Software Engineer Full Stack (mainly back-en
 - 📫 How to reach me: avirgilitech@gmail.com
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-561.2%20thousand%20lines%20of%20code-blue)
 
@@ -40,11 +40,11 @@ Sunday                   11 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Asuncion
 
 💬 Programming Languages: 
-Java                     7 hrs 58 mins       █████████████████████░░░░   82.51 % 
-YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Java                     4 hrs 49 mins       ██████████████████░░░░░░░   72.06 % 
+YAML                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 
 **I Mostly Code in Java** 
@@ -60,5 +60,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2024 01:06:38 UTC
+ Last Updated on 02/06/2024 01:07:02 UTC
 <!--END_SECTION:waka-->
