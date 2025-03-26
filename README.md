@@ -4,8 +4,8 @@ My name is Alejandro Virgili. I'm a Software Engineer Full Stack (mainly back-en
 
 
 - 🔭 I’m currently working on Fintech Solutions
-- 🌱 I’m currently learning Kubernetes and Flutter (App development)
-- 👯 I’m looking to collaborate on tools and creative solutions to people finances problems.
+- 🌱 I’m currently learning AI and Flutter (App development)
+- 👯 I’m looking to collaborate on tools and creative solutions to people needs
 - 📫 How to reach me: avirgilitech@gmail.com
   
 <!--START_SECTION:waka-->
