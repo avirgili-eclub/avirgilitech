@@ -27,11 +27,7 @@ My name is Alejandro Virgili. I'm a Software Engineer Full Stack (mainly back-en
 🕑︎ Time Zone: America/Asuncion
 
 💬 Programming Languages: 
-Python                   1 min               ████████████████████░░░░░   81.79 % 
-Java                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -47,5 +43,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2025 00:25:19 UTC
+ Last Updated on 17/06/2025 00:23:55 UTC
 <!--END_SECTION:waka-->
